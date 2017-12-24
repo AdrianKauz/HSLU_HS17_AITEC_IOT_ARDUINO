@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FadingLED", "FadingLED\FadingLED.vcxproj", "{28E11957-E760-4661-8D0A-4E8E13D56318}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PingTest", "PingTest\PingTest.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebClientTest", "WebClientTest\WebClientTest.vcxproj", "{F271894C-3FA5-47DB-B929-AFC3ADB021AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDCardInitTest", "SDCardInitTest\SDCardInitTest.vcxproj", "{6F650050-920C-4E30-9D11-D3B8EFC3B5A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDCardReadWriteTest", "SDCardReadWriteTest\SDCardReadWriteTest.vcxproj", "{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E11957-E760-4661-8D0A-4E8E13D56318}.Debug|x86.ActiveCfg = Debug|Win32
+		{28E11957-E760-4661-8D0A-4E8E13D56318}.Debug|x86.Build.0 = Debug|Win32
+		{28E11957-E760-4661-8D0A-4E8E13D56318}.Release|x86.ActiveCfg = Release|Win32
+		{28E11957-E760-4661-8D0A-4E8E13D56318}.Release|x86.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{F271894C-3FA5-47DB-B929-AFC3ADB021AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F271894C-3FA5-47DB-B929-AFC3ADB021AB}.Debug|x86.Build.0 = Debug|Win32
+		{F271894C-3FA5-47DB-B929-AFC3ADB021AB}.Release|x86.ActiveCfg = Release|Win32
+		{F271894C-3FA5-47DB-B929-AFC3ADB021AB}.Release|x86.Build.0 = Release|Win32
+		{6F650050-920C-4E30-9D11-D3B8EFC3B5A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F650050-920C-4E30-9D11-D3B8EFC3B5A9}.Debug|x86.Build.0 = Debug|Win32
+		{6F650050-920C-4E30-9D11-D3B8EFC3B5A9}.Release|x86.ActiveCfg = Release|Win32
+		{6F650050-920C-4E30-9D11-D3B8EFC3B5A9}.Release|x86.Build.0 = Release|Win32
+		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Debug|x86.Build.0 = Debug|Win32
+		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Release|x86.ActiveCfg = Release|Win32
+		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
