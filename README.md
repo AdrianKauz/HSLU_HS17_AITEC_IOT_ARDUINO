@@ -22,7 +22,7 @@ Make sure you have installed Visual Studio with C++ support and the Arduino IDE-
 _(Checkbox is marked if test was successful)_<br>
 
 **Main**-Folder includes the final "DoorBell"-IoT-Project:  
-- [**Arduino Code**](DoorBell/Main/Main.ino)
+- [**Arduino Code**](DoorBell/Main)
 - [**Web Code**](DoorBell/Web)
 
 ![Preview](DoorBell/Web/preview.jpg)<br>
