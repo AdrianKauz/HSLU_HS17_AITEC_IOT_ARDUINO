@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDCardInitTest", "SDCardIni
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDCardReadWriteTest", "SDCardReadWriteTest\SDCardReadWriteTest.vcxproj", "{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkspriteTest", "LinkspriteTest\LinkspriteTest.vcxproj", "{5D01184D-7722-4577-A4DD-21128EF6B47B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PushTest", "PushTest\PushTest.vcxproj", "{A2EB8BD6-6CEC-4E13-B9A8-BA4B26726C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -39,6 +43,14 @@ Global
 		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Debug|x86.Build.0 = Debug|Win32
 		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Release|x86.ActiveCfg = Release|Win32
 		{700A3F6C-ACE5-4668-852F-AA5ABACE53DA}.Release|x86.Build.0 = Release|Win32
+		{5D01184D-7722-4577-A4DD-21128EF6B47B}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D01184D-7722-4577-A4DD-21128EF6B47B}.Debug|x86.Build.0 = Debug|Win32
+		{5D01184D-7722-4577-A4DD-21128EF6B47B}.Release|x86.ActiveCfg = Release|Win32
+		{5D01184D-7722-4577-A4DD-21128EF6B47B}.Release|x86.Build.0 = Release|Win32
+		{A2EB8BD6-6CEC-4E13-B9A8-BA4B26726C01}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2EB8BD6-6CEC-4E13-B9A8-BA4B26726C01}.Debug|x86.Build.0 = Debug|Win32
+		{A2EB8BD6-6CEC-4E13-B9A8-BA4B26726C01}.Release|x86.ActiveCfg = Release|Win32
+		{A2EB8BD6-6CEC-4E13-B9A8-BA4B26726C01}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
