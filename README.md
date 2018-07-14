@@ -1,5 +1,5 @@
 # HSLU HS17 AITEC - IoT Task
-Here you can find all my code for the Advanced Internet Technologies (AITEC) Arduino "IoT" Task.<br>
+Here you can find all the code for the Advanced Internet Technologies (AITEC) Arduino "IoT" Task.<br>
 
 
   
